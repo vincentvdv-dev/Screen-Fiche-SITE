@@ -1,18 +1,30 @@
-THIS IS THE DOC FOR EXPLAINING THE SCREEN-FICHE PROJECT.
-THE CONSTRUCTION OF THIS WEBSITE IS COMING AFTER THE REALIZATION OF TWO ACCOUNTS ON THE SOCIAL MEDIA: TIKTOK AND INSTAGRAM.
+# Screen-Fiche
 
-THIS PROJECT HAS FOR MISSION TO GIVE CONTENT WITH BEAUTIFUL ENERGY, MORAL AND MOTIVATION FOR OUR YOUNG PEOPLE.
-YES, IN THESE DARK TIMES WE HAVE MANY PROBLEMS BECAUSE OUR YOUNG PEOPLE ARE INFLUENCED BY MANY DARK, BAD, AND SUPERFICIAL CONTENT.
-90% OF THEM ARE BASED ON APPEARANCES, ON VIOLENCE, AND THE LOVE OF OUR EARTH AND BODY DISAPPEARS.
-IT'S WHY I HOPE THE SCREEN-FICHE CONTENT WILL HAVE A GOOD IMPACT ON THE SOCIAL NETWORK.
+## Overview  
+Screen-Fiche is the web companion to our TikTok and Instagram account, designed to deliver uplifting, motivational content to young audience.
 
-***************************************************************************************
+## Mission  
+In a social-media landscape too often dominated by superficial or negative content, Screen-Fiche aims to:  
+- Inspire healthier habits (body, mind, sport, nutrition…)  
+- Strengthen self-esteem and positivity  
+- Provide shareable “takeaways” that stick beyond the scrolling feed
 
-A SHORT RESUME OF WHAT IS SCREEN-FICHE: MANY VIDEOS OF POSITIVE THEMES (BODY/HEALTH/SPORT…) AND IN THE END OF THE VIDEO A "FICHE".
-THE OBJECTIVE IS THAT THE CUSTOMER MAKES A SCREENSHOT AND HE CAN HAVE THIS FICHE ON HIS PHONE.
+## How It Works  
+1. **Watch** – User views a short, themed video on the site.  
+2. **Grab** – At the end of the video, a “Get My Fiche” button appears.  
+3. **Save** – User downloads or screenshots the “fiche”: a concise, beautifully designed tip sheet they can keep on their phone.
 
-WE CAN MONETIZE THIS WITH SPECIAL EBOOKS LIKE "10 SCREEN-FICHE FOR COOK" OR "THE SCREEN-FICHE FOR ALL OF THE SPORTIVE PEOPLE".
+## Monetization Strategies  
+- **Themed E-Books**: e.g. “10 Screen-Fiches for Healthy Cooking,” “Screen-Fiche Workout Guides”  
+- **Premium Membership**: early access to new fiches, ad-free viewing, community perks  
+- **Brand Partnerships**: sponsored fiches with health/fitness/wellness brands that align with our values
 
-THIS WEBSITE WILL BE CREATED WITH HTML/CSS/PHP.
+## Technology Stack  
+- **Front-end**: HTML5, CSS3, JavaScript  
+- **Back-end**: PHP  
+- **Database**: MySQL (or choose your preferred RDBMS)  
+- **Hosting**: (to be decided)
 
-THANKS FOR READING.
+---
+
+*Thank you for checking out Screen-Fiche! We welcome your feedback and ideas to make our platform even more impactful.*  
